@@ -1,0 +1,19 @@
+body {
+  background-image: url("../img/cork.jpg");
+}
+
+img {
+  width: 300px;
+}
+
+#polaroid {
+  position: relative;
+  z-index: 1;
+}
+
+#koala {
+  position: absolute;
+  width: 202px;
+  left: 51px;
+  top: 38px;
+}
